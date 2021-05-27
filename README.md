@@ -1,2 +1,2 @@
 # Weather-Forecaster-App
-***Work in progress***
+Click [here](https://gforceweather.herokuapp.com/) to checkout the deployed application.

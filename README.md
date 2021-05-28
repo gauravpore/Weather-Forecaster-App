@@ -36,5 +36,15 @@ pip install pyowm
 ```
 pip install matplotlib
 ```
+## 🔹References:
+- [Open Weather Map](https://openweathermap.org/)
+- [Streamlit docs](https://docs.streamlit.io/en/stable/)
+- [Heroku deployment](https://devcenter.heroku.com/categories/deployment)
+
+## 🔹Contribution:
+Contributions are always welcomed.
+Make sure you read the [Contribution info](https://github.com/gauravpore/Weather-Forecaster-App/blob/main/contribution.md)
+
+
 
 

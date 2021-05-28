@@ -1,15 +1,15 @@
 # Weather-Forecaster-App 🌦️
-Click [here](https://gforceweather.herokuapp.com/) to checkout the deployed application.
+📌Click [here](https://gforceweather.herokuapp.com/) to checkout the deployed application.
 
-## Overview:
+## 🔹Overview:
 The weather forecaster app is an web based application to get weather updates and forecast, like temperature in both units (Celsius, Faranheit), expected climate changes, wind speed and much more.
 
-**Concepts:**
+🔸**Concepts:**
 - Application Development
 - API calls
 - Git based deployment (heroku client)
 
-**Tools & Technologies:**
+🔸**Tools & Technologies:**
 - Python 
 - [Streamlit](https://streamlit.io/)
 - [Open Weather Map](https://openweathermap.org/)
@@ -18,12 +18,12 @@ The weather forecaster app is an web based application to get weather updates an
 - [Heroku](https://www.heroku.com/free)
 - Git Bash
 
-## Features:
+## 🔹Features:
 - Getting weather forecast using Open Weather API
 - City name and zip-code based querying
 - Parameters: Temperature, Wind speed, Cloud coverage, Sunrise & Sunset time, Graphical forecast (line & bar graph)
 
-> Installation Guide:
+>🔸Installation Guide:
 - To install streamlit:
 ```
 pip install streamlit
